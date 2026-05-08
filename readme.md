@@ -16,7 +16,7 @@ A Bash automation tool that monitors incoming data files, validates them, compre
 ### Script Running Successfully
 
 ```
-![Script Working](docs/screenshot_1.png)
+<img src="docs/screenshot_1.png">
 ```
 
 ---
@@ -24,7 +24,7 @@ A Bash automation tool that monitors incoming data files, validates them, compre
 ### Cron Job Setup
 
 ```
-![Cron Setup](docs/screenshot_2.png)
+<img src"docs/screenshot_2.png">
 ```
 
 
