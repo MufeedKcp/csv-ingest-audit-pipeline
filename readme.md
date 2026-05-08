@@ -15,24 +15,13 @@ A Bash automation tool that monitors incoming data files, validates them, compre
 
 ### Script Running Successfully
 
-<<<<<<< HEAD
-
 <img src="docs/screenshot_1.png"  width="500" height="300">
-
-=======
-<img src="docs/screenshot_1.png"  width="500" height="300">
->>>>>>> cff52b710d898a56b0257f2fbf18c57fb5aab06e
 
 ---
 
 ### Cron Job Setup
 
-
-<<<<<<< HEAD
 <img src="docs/screenshot_2.png"  width="500" height="300">
-=======
-<img src"docs/screenshot_2.png"  width="500" height="300">
->>>>>>> cff52b710d898a56b0257f2fbf18c57fb5aab06e
 
 
 
