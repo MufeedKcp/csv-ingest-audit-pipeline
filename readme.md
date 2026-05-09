@@ -8,7 +8,7 @@ A Bash automation tool that monitors incoming data files, validates them, compre
 - Validates incoming `.csv` files only
 - Compresses files using `gzip`
 - Archives the files with timestamped filenames.
-- Logs all actions to `/var/log/data_ingest.log` and  ```/var/log/cron_job.log``` 
+- Logs all actions to `/var/log/data_ingest.log` and  ```/var/log/cron_output.log``` 
 - Runs automatically every 5 minutes using Cron
 
 ---
