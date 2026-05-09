@@ -1,9 +1,10 @@
-# Python
 env/
 venv/
 __pycache__/
 *.pyc
 *.pyo
+
+.git
 
 /data/
 /data/*
@@ -11,14 +12,11 @@ __pycache__/
 *.gz
 *.log
 
-# OS
 .DS_Store
 Thumbs.db
 
-# IDE
 .vscode/
 .idea/
 EOF
-
 
 .gitignore
