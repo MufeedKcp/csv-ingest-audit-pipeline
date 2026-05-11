@@ -1,7 +1,7 @@
 # Ingestion Watchdog
 
-A Bash automation tool that monitors incoming data files, validates them, compresses them using `gzip`, archives them with timestamps, and logs every action for durability tracking.
- 
+A Bash automation tool that monitors incoming data files, validates them, compresses them using `gzip`, archives them with timestamps as name, and logs every action for durability tracking.
+
 ## What does it actually do:
 
 - Monitors `/data/incoming` for new files.
