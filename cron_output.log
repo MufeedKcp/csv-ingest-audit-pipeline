@@ -1,0 +1,89 @@
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+find: ‘./incoming’: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_1.csv
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_1.csv.gz' to './archive/sales_data_1.csv.gz_20260507_H5002': No such file or directory
+sales_data_1.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_10.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_10.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_10.csv.gz' to './archive/sales_data_10.csv.gz_20260507_H5002': No such file or directory
+sales_data_10.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_2.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_2.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_2.csv.gz' to './archive/sales_data_2.csv.gz_20260507_H5002': No such file or directory
+sales_data_2.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_3.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_3.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_3.csv.gz' to './archive/sales_data_3.csv.gz_20260507_H5002': No such file or directory
+sales_data_3.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_4.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_4.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_4.csv.gz' to './archive/sales_data_4.csv.gz_20260507_H5002': No such file or directory
+sales_data_4.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_5.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_5.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_5.csv.gz' to './archive/sales_data_5.csv.gz_20260507_H5002': No such file or directory
+sales_data_5.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_6.csv
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_6.csv.gz' to './archive/sales_data_6.csv.gz_20260507_H5002': No such file or directory
+sales_data_6.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_7.csv
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_8.csv
+gzip: /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_8.csv.gz already exists;	not overwritten
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_8.csv.gz' to './archive/sales_data_8.csv.gz_20260507_H5003': No such file or directory
+sales_data_8.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_9.csv
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 12: ./logs/data_ingestion.log: No such file or directory
+mv: cannot move '/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_9.csv.gz' to './archive/sales_data_9.csv.gz_20260507_H5003': No such file or directory
+sales_data_9.csv moved to archive
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 15: ./logs/data_ingestion.log: No such file or directory
+/mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/ingest_watchdog.sh: line 16: ./logs/data_ingestion.log: No such file or directory
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_1.csv
+sales_data_1.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_10.csv
+sales_data_10.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_2.csv
+sales_data_2.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_3.csv
+sales_data_3.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_4.csv
+sales_data_4.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_5.csv
+sales_data_5.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_6.csv
+sales_data_6.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_7.csv
+sales_data_7.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_8.csv
+sales_data_8.csv moved to archive
+Processing /mnt/c/Users/biten/OneDrive/Documents/linux_project_sales_files/incoming/sales_data_9.csv
+sales_data_9.csv moved to archive

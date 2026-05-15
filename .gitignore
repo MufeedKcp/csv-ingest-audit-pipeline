@@ -10,7 +10,7 @@ __pycache__/
 /data/*
 *.csv
 *.gz
-*.log
+*.logs
 
 .DS_Store
 Thumbs.db
